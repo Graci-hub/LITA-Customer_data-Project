@@ -20,7 +20,7 @@ The dataset include the following columns:
 - Canceled: Indicator of whether the subscription was canceled (True/ False)
 - Revenue: Total revenue generated from the customer’s subscription.
 - Duration: Duration of the subscription (calculated as days or months between Subscription Start and Subscription End).
-## Data Preparation and Cleaning
+## Data Preparation and Cleaning (EXCEL)
 - Removing Duplicates: I ensured that there's no duplicate records by filtering out duplicate Customer ID entries.
 - Adding calculated Columns:
   1. Duration: Calculated as the difference between Subscription Start and Subscription End.
