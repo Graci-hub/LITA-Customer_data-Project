@@ -50,7 +50,7 @@ Below are some of the Metrics that were Queried
    [active and canceled.txt](https://github.com/user-attachments/files/17649307/active.and.canceled.txt)
 
 - Most popular subscription by number of Customers
-- [most popular.txt](https://github.com/user-attachments/files/17649328/most.popular.txt)
+ [most popular.txt](https://github.com/user-attachments/files/17649328/most.popular.txt)
 
 ## Query Attachment from SQL Server
 - [SQLQuery3.txt](https://github.com/user-attachments/files/17648172/SQLQuery3.txt)
